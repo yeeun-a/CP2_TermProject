@@ -1,5 +1,6 @@
 # CP2_TermProject
 An Implementation of Omok
+Used VSCode
 
 ## Omok Game
 This project is an implementation of Game 'Omok'.
